@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @RandzAndrea
+- 👋 Hi, I’m Zea
 - 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning cybersecurity
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning sql.
+- 📫 How to reach me: randzandrea@gmail.com
+- 😄 Pronouns: she/her/hers
+- ⚡ Fun fact: nothing.
 
 <!---
 RandzAndrea/RandzAndrea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
